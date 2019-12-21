@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="kubernetes-hard-way-262718"
