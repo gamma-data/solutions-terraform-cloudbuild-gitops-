@@ -1,6 +1,6 @@
 
 locals {
-  "env" = "prod"
+  "env" = "dev"
 }
 
 provider "google" {

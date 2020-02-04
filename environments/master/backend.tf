@@ -2,6 +2,7 @@
 terraform {
   backend "gcs" {
     bucket = "gamma-ingestion-tfstate"
-    prefix = "env/prod"
+    prefix = "env/dev"
   }
 }
+
